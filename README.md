@@ -75,4 +75,4 @@ My mission? **To craft tech that inspires, innovates, and makes the world a litt
 
 ---
 
-### ⚡ *“Building projects today that make tomorrow jealous.”*
+### ⚡ *“Lets Build Something Together!!”*
