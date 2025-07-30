@@ -68,7 +68,7 @@ My mission? **To craft tech that inspires, innovates, and makes the world a litt
 ## 📫 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishan-roy-radx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+  <a href="https://www.linkedin.com/in/ishanroy-radx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
   <a href="mailto:ishanroy3118107@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
   <a href="https://github.com/RADXIshan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff"/></a>
 </p>
