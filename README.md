@@ -59,8 +59,6 @@ My mission? **To craft tech that inspires, innovates, and makes the world a litt
 
 ---
 
-## 📊 Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADXIshan&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
