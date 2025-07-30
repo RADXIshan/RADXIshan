@@ -12,7 +12,7 @@ My mission? **To craft tech that inspires, innovates, and makes the world a litt
 - 🎓 **CSE @ XIM University (2023–2027)** | GPA: 8.7  
 - 💻 **Software Developer** (Full-Stack & AI-focused)  
 - 🧠 Exploring **AI, LLMs, and Advanced Web Development**  
-- ⚡ Currently building **[Langly](https://github.com/RADXIshan/mern-langly)** – a learning platform  
+- ⚡ Currently building **[Langly](https://github.com/RADXIshan/mern-langly)** – a language learning platform  
 
 ---
 
@@ -59,10 +59,9 @@ My mission? **To craft tech that inspires, innovates, and makes the world a litt
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RADXIshan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADXIshan&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
@@ -71,8 +70,8 @@ My mission? **To craft tech that inspires, innovates, and makes the world a litt
 ## 📫 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishan-roy-101"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-  <a href="mailto:ishanroy.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
+  <a href="www.linkedin.com/in/ishan-roy-495070353"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+  <a href="mailto:ishanroy3118107@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
   <a href="https://github.com/RADXIshan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff"/></a>
 </p>
 
