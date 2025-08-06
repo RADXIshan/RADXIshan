@@ -9,10 +9,9 @@ My mission? **To craft tech that inspires, innovates, and makes the world a litt
 
 ## 🌟 About Me
 
-- 🎓 **CSE @ XIM University (2023–2027)** | GPA: 8.7  
+- 🎓 **CSE @ XIM University (2023–2027)** | GPA: 8.68  
 - 💻 **Software Developer** (Full-Stack & AI-focused)  
 - 🧠 Exploring **AI, LLMs, and Advanced Web Development**  
-- ⚡ Currently building **[Langly](https://github.com/RADXIshan/mern-langly)** – a language learning platform  
 
 ---
 
