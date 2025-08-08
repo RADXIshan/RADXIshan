@@ -51,7 +51,7 @@ My mission? **To craft tech that inspires, innovates, and makes the world a litt
 > **Language Learning App** – Connecting users from all over the world to learn languages together.
 
 ### 🔹 [My Pokédex](https://github.com/RADXIshan/My-Pokedex)
-> **Pokémon Explorer** – Search, filter, and view Pokémon stats with a sleek, responsive UI.
+> **Pokémon Explorer** – Search, filter, and view Pokémon stats with a sleek UI.
 
 ### 🔹 [Real-Time Tracker](https://github.com/RADXIshan/Real-Time-Tracker)
 > **Live Location Tracking** – Track movement in real time with an interactive map.
