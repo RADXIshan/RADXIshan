@@ -48,7 +48,7 @@ My mission? **To craft tech that inspires, innovates, and makes the world a litt
 > **All-in-One AI Platform** – Generate images, remove backgrounds, write content, and review resumes.
 
 ### 🔹 [Langly](https://github.com/RADXIshan/mern-langly)
-> **Language Learning App** – Interactive lessons with real-time AI assistance.
+> **Language Learning App** – Connecting users from all over the world to learn languages together.
 
 ### 🔹 [My Pokédex](https://github.com/RADXIshan/My-Pokedex)
 > **Pokémon Explorer** – Search, filter, and view Pokémon stats with a sleek, responsive UI.
