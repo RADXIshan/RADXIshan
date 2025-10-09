@@ -11,9 +11,9 @@ From designing **dynamic user interfaces** to developing **AI-driven backends**,
 
 ## 🌟 About Me
 
-- 🎓 **B.Tech CSE @ XIM University (2023–2027)** | GPA: **8.68**  
-- 💻 **Full-Stack & AI Developer** — skilled in **MERN, PERN**, and **AI-powered applications**  
-- 🧠 Exploring **LLMs, Agentic AI, and Intelligent Web Systems**  
+- 🎓 **B.Tech CSE @ XIM University (2023–2027)** | GPA: **8.68**
+- 💻 **Full-Stack & AI Developer** — skilled in **MERN, PERN**, and **AI-powered applications**
+- 🧠 Exploring **LLMs, Agentic AI, and Intelligent Web Systems**
 - ⚙️ Focused on building **real-world, production-grade, AI-augmented software**
 
 ---
@@ -57,7 +57,7 @@ From designing **dynamic user interfaces** to developing **AI-driven backends**,
 ## 🚀 Featured Projects
 
 ### 🔹 [Multi.AI](https://github.com/RADXIshan/pern-multiai)
-> **All-in-One AI Platform** — Generate images, remove backgrounds, write content, and review resumes using OpenAI APIs.
+> **All-in-One AI Platform** — Generate images, remove backgrounds, write content, and review resumes with OpenAI APIs.
 
 ### 🔹 [Langly](https://github.com/RADXIshan/mern-langly)
 > **Language Learning App** — A global platform to connect and learn languages interactively.
