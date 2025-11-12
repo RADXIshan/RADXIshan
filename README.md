@@ -134,7 +134,7 @@
     </div>
   </div>
 
-  <br /> <br/ > <br />
+  <br /> <br />
   
   <!-- Project 2 -->
   <div style="text-align:center; max-width:220px;">
