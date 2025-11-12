@@ -109,41 +109,44 @@
 
 ---
 
-## <div align="center">📂 FEATURED PROJECTS 📂</div>
+## <div align="center">📂 FEATURED PROJECTS</div>
 
-<div align="center" style="display:flex; flex-direction:column; align-items:center; justify-content:center;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
 
-  <a href="https://github.com/RADXIshan/SyncSpace" target="_blank">
+  <!-- Project 1 -->
+  <a href="https://github.com/RADXIshan/SyncSpace" target="_blank" style="text-decoration:none; color:inherit;">
     <img 
       src="https://raw.githubusercontent.com/RADXIshan/SyncSpace/main/client/public/icon.png" 
       alt="SyncSpace - Preview" 
-      width="96" height="96" 
-      style="border-radius:12px; margin:10px; box-shadow:0 0 15px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out;"
-      onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.4)';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px rgba(0,255,255,0.25)';"
+      width="96" height="96"
+      style="border-radius:16px; box-shadow:0 0 20px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out; transform:scale(1);"
+      onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 0 25px rgba(0,255,255,0.4)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.25)';"
     />
+    <br>
+    <sub><b>🌀 SyncSpace</b> — Real-time collaboration app built with <b>Socket.io</b> + <b>WebRTC</b></sub>
+    <br>
+    <sub>🔗 <a href="https://syncspace-client.vercel.app" target="_blank" style="color:#00ffff;">Live Demo</a></sub>
   </a>
 
-  <a href="https://github.com/RADXIshan/pern-multiai" target="_blank">
+  <!-- Project 2 -->
+  <a href="https://github.com/RADXIshan/pern-multiai" target="_blank" style="text-decoration:none; color:inherit;">
     <img 
       src="https://raw.githubusercontent.com/RADXIshan/pern-multiai/main/client/public/ai.png" 
       alt="PERN MultiAI - Preview" 
-      width="96" height="96" 
-      style="border-radius:12px; margin:10px; box-shadow:0 0 15px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out;"
-      onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.4)';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px rgba(0,255,255,0.25)';"
+      width="96" height="96"
+      style="border-radius:16px; box-shadow:0 0 20px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out; transform:scale(1);"
+      onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 0 25px rgba(0,255,255,0.4)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.25)';"
     />
+    <br>
+    <sub><b>🤖 PERN MultiAI</b> — Multi-Agent AI system powered by <b>FastAPI</b> + <b>React</b></sub>
+    <br>
+    <sub>🔗 <a href="https://pern-multiai-client.vercel.app" target="_blank" style="color:#00ffff;">Live Demo</a></sub>
   </a>
 
-  <br>
-
-  <sub>
-    <b>🌀 <a href="https://syncspace-client.vercel.app" target="_blank" style="color:#00ffff; text-decoration:none;">SyncSpace</a></b> — Real-time collaboration using Socket.io + WebRTC
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <b>🤖 <a href="https://pern-multiai-client.vercel.app" target="_blank" style="color:#00ffff; text-decoration:none;">PERN MultiAI</a></b> — Multi-Agent AI system with FastAPI + React
-  </sub>
-
 </div>
+
 
 ---
 
