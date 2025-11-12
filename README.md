@@ -1,31 +1,14 @@
-# <div align="center">🚀 WELCOME TO ISHAN’S TECHVERSE 🌌</div>
+# <div align="center"> 🌌 WELCOME TO ISHAN’S TECHVERSE 🌌</div>
 
 <div align="center">
-  <a href="https://github.com/IshanRoy-tech">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Full-Stack+Developer;AI+%26+Automation+Explorer;Technical+Lead+@Xplore;Always+Building+%26+Learning;Future+Founder+in+the+Making" alt="Typing SVG" />
+  <a href="https://github.com/RADXIshan">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Full-Stack+Developer;AI/ML+%26+Automation+Explorer;Always+Building+%26+Learning;" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Currently-Coding-brightgreen?style=for-the-badge&logo=terminal&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=IshanRoy-tech&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <a href="https://wakatime.com/@IshanRoy">
-    <img src="https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg" alt="Total time coded since 2025" />
-  </a>
-</div>
-
----
-
-## <div align="center">🧠 ABOUT ME</div>
-
-<div align="center">
-
-💻 **3rd Year CSE Student @ XIM University**  
-🧑‍💻 **Technical Lead @ Xplore Coding Community**  
-🌍 Aspiring **Full-Stack + AI Developer** with a passion for **building scalable, intelligent systems**  
-🧩 Currently diving deep into **backend architecture, LLMs, and autonomous AI agents**  
-🚀 Long-term vision: **FAANG engineer → Tech Founder → Build something world-changing**  
-
 </div>
 
 ---
@@ -58,6 +41,10 @@
     </tr>
     <tr>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+        <br>FastAPI
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
         <br>Next.js
       </td>
@@ -66,19 +53,23 @@
         <br>MongoDB
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
         <br>MySQL
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
         <br>Tailwind CSS
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-        <br>Docker
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
@@ -91,13 +82,27 @@
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST" />
         <br>REST APIs
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+        <br>NumPy
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        <br>C++
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+        <br>Pandas
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" />
+        <br>Matplotlib
+      </td>
+      <td align="center" width="96">
+        <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
+        <br>Socket.io
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.webrtc.org/assets/images/webrtc-logo-vert-retina.png" width="48" height="48" alt="WebRTC" />
+        <br>WebRTC
       </td>
     </tr>
   </table>
@@ -108,11 +113,16 @@
 ## <div align="center">📂 FEATURED PROJECTS</div>
 
 <div align="center">
-  <a href="https://github.com/IshanRoy-tech/futuristic-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanRoy-tech&repo=futuristic-portfolio&theme=radical&hide_border=true" />
+  <a href="https://github.com/RADXIshan/SyncSpace" target="_blank">
+    <img src="https://vercel.com/trickster10ishan-gmailcoms-projects/syncspace-client/_next/static/media/vercel.0e5f6f4d.svg" alt="SyncSpace - Vercel Deployment" width="400" height="200" style="border-radius: 10px; box-shadow: 0px 0px 10px #00f0ff;" />
+    <br>
+    <sub><b>🌀 SyncSpace</b> — Real-time collaboration app</sub>
   </a>
-  <a href="https://github.com/IshanRoy-tech/ai-sales-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanRoy-tech&repo=ai-sales-bot&theme=radical&hide_border=true" />
+  <br><br>
+  <a href="https://github.com/RADXIshan/pern-multiai" target="_blank">
+    <img src="https://vercel.com/trickster10ishan-gmailcoms-projects/pern-multiai-client/_next/static/media/vercel.0e5f6f4d.svg" alt="PERN MultiAI - Vercel Deployment" width="400" height="200" style="border-radius: 10px; box-shadow: 0px 0px 10px #00f0ff;" />
+    <br>
+    <sub><b>🤖 PERN MultiAI</b> — Multi-agent AI system powered by FastAPI + React</sub>
   </a>
 </div>
 
@@ -130,13 +140,13 @@
 ## <div align="center">🌐 CONNECT WITH ME</div>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/ishan-roy-tech/](https://www.linkedin.com/in/ishanroy-radx/)">
+  <a href="https://www.linkedin.com/in/ishanroy-radx/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ishanroy3118107@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[https://github.com/IshanRoy-tech](https://github.com/RADXIshan)">
+  <a href="https://github.com/RADXIshan">
     <img src="https://custom-icon-badges.demolab.com/badge/-⬆️_Back_to_Top-purple?style=for-the-badge&logoColor=white"/>
   </a>
 </div>
