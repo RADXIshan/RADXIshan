@@ -99,10 +99,10 @@
       <td align="center" width="96">
         <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
         <br>Socket.io
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" width="48" height="48" alt="WebRTC" />
-        <br>WebRTC
-      </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=webrtc" width="48" height="48" alt="WebRTC" />
+      <br>WebRTC
+    </td>
     </tr>
   </table>
 </div>
@@ -134,6 +134,8 @@
     </div>
   </div>
 
+  <br /> <br/ > <br />
+  
   <!-- Project 2 -->
   <div style="text-align:center; max-width:220px;">
     <a href="https://github.com/RADXIshan/pern-multiai" target="_blank" style="text-decoration:none; color:inherit;">
