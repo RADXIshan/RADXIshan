@@ -99,9 +99,8 @@
       <td align="center" width="96">
         <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
         <br>Socket.io
-      </td>
       <td align="center" width="96">
-        <img src="https://www.webrtc.org/assets/images/webrtc-logo-vert-retina.png" width="48" height="48" alt="WebRTC" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" width="48" height="48" alt="WebRTC" />
         <br>WebRTC
       </td>
     </tr>
@@ -114,17 +113,28 @@
 
 <div align="center">
   <a href="https://github.com/RADXIshan/SyncSpace" target="_blank">
-    <img src="https://vercel.com/trickster10ishan-gmailcoms-projects/syncspace-client/_next/static/media/vercel.0e5f6f4d.svg" alt="SyncSpace - Vercel Deployment" width="400" height="200" style="border-radius: 10px; box-shadow: 0px 0px 10px #00f0ff;" />
+    <img 
+      src="https://raw.githubusercontent.com/RADXIshan/SyncSpace/main/client/pubilc/icon.png" 
+      alt="SyncSpace - Preview" 
+      width="420" height="240" 
+      style="border-radius:12px; box-shadow:0 6px 24px rgba(0,240,255,0.12);" />
     <br>
-    <sub><b>🌀 SyncSpace</b> — Real-time collaboration app</sub>
+    <sub><b>🌀 SyncSpace</b> — Real-time collaboration app • <a href="https://syncspace-client.vercel.app" target="_blank">Live</a></sub>
   </a>
-  <br><br>
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/RADXIshan/pern-multiai" target="_blank">
-    <img src="https://vercel.com/trickster10ishan-gmailcoms-projects/pern-multiai-client/_next/static/media/vercel.0e5f6f4d.svg" alt="PERN MultiAI - Vercel Deployment" width="400" height="200" style="border-radius: 10px; box-shadow: 0px 0px 10px #00f0ff;" />
+    <img 
+      src="https://raw.githubusercontent.com/RADXIshan/pern-multiai/main/client/public/ai.png" 
+      alt="PERN MultiAI - Preview" 
+      width="420" height="240" 
+      style="border-radius:12px; box-shadow:0 6px 24px rgba(0,240,255,0.12);" />
     <br>
-    <sub><b>🤖 PERN MultiAI</b> — Multi-agent AI system powered by FastAPI + React</sub>
+    <sub><b>🤖 PERN MultiAI</b> — Multi-agent AI system • <a href="https://pern-multiai-client.vercel.app" target="_blank">Live</a></sub>
   </a>
 </div>
+
 
 ---
 
