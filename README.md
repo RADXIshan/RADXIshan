@@ -117,7 +117,7 @@
     <img 
       src="https://raw.githubusercontent.com/RADXIshan/SyncSpace/main/client/public/icon.png" 
       alt="SyncSpace - Preview" 
-      width="340" height="190" 
+      width="96" height="96" 
       style="border-radius:12px; margin:10px; box-shadow:0 0 15px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out;"
       onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.4)';"
       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px rgba(0,255,255,0.25)';"
@@ -128,7 +128,7 @@
     <img 
       src="https://raw.githubusercontent.com/RADXIshan/pern-multiai/main/client/public/ai.png" 
       alt="PERN MultiAI - Preview" 
-      width="340" height="190" 
+      width="96" height="96" 
       style="border-radius:12px; margin:10px; box-shadow:0 0 15px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out;"
       onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.4)';"
       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px rgba(0,255,255,0.25)';"
