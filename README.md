@@ -111,41 +111,52 @@
 
 ## <div align="center">📂 FEATURED PROJECTS</div>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:48px; margin-top:16px;">
 
   <!-- Project 1 -->
-  <a href="https://github.com/RADXIshan/SyncSpace" target="_blank" style="text-decoration:none; color:inherit;">
-    <img 
-      src="https://raw.githubusercontent.com/RADXIshan/SyncSpace/main/client/public/icon.png" 
-      alt="SyncSpace - Preview" 
-      width="96" height="96"
-      style="border-radius:16px; box-shadow:0 0 20px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out; transform:scale(1);"
-      onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 0 25px rgba(0,255,255,0.4)';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.25)';"
-    />
-    <br>
-    <sub><b>🌀 SyncSpace</b> — Real-time collaboration app built with <b>Socket.io</b> + <b>WebRTC</b></sub>
-    <br>
-    <sub>🔗 <a href="https://syncspace-client.vercel.app" target="_blank" style="color:#00ffff;">Live Demo</a></sub>
-  </a>
+  <div style="text-align:center; max-width:220px;">
+    <a href="https://github.com/RADXIshan/SyncSpace" target="_blank" style="text-decoration:none; color:inherit;">
+      <img 
+        src="https://raw.githubusercontent.com/RADXIshan/SyncSpace/main/client/public/icon.png" 
+        alt="SyncSpace - Preview" 
+        width="110" height="110"
+        style="border-radius:18px; box-shadow:0 0 20px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 0 25px rgba(0,255,255,0.4)';"
+        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.25)';"
+      />
+      <div style="font-size:15px; margin-top:10px;">
+        <b>🌀 SyncSpace</b><br>
+        <span>Real-time collaboration app built with <b>Socket.io</b> + <b>WebRTC</b></span>
+      </div>
+    </a>
+    <div style="margin-top:6px; font-size:14px;">
+      🔗 <a href="https://syncspace-client.vercel.app" target="_blank" style="color:#00ffff; font-weight:600;">Live Demo</a>
+    </div>
+  </div>
 
   <!-- Project 2 -->
-  <a href="https://github.com/RADXIshan/pern-multiai" target="_blank" style="text-decoration:none; color:inherit;">
-    <img 
-      src="https://raw.githubusercontent.com/RADXIshan/pern-multiai/main/client/public/ai.png" 
-      alt="PERN MultiAI - Preview" 
-      width="96" height="96"
-      style="border-radius:16px; box-shadow:0 0 20px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out; transform:scale(1);"
-      onmouseover="this.style.transform='scale(1.04)'; this.style.boxShadow='0 0 25px rgba(0,255,255,0.4)';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.25)';"
-    />
-    <br>
-    <sub><b>🤖 PERN MultiAI</b> — Multi-Agent AI system powered by <b>FastAPI</b> + <b>React</b></sub>
-    <br>
-    <sub>🔗 <a href="https://pern-multiai-client.vercel.app" target="_blank" style="color:#00ffff;">Live Demo</a></sub>
-  </a>
+  <div style="text-align:center; max-width:220px;">
+    <a href="https://github.com/RADXIshan/pern-multiai" target="_blank" style="text-decoration:none; color:inherit;">
+      <img 
+        src="https://raw.githubusercontent.com/RADXIshan/pern-multiai/main/client/public/ai.png" 
+        alt="PERN MultiAI - Preview" 
+        width="110" height="110"
+        style="border-radius:18px; box-shadow:0 0 20px rgba(0,255,255,0.25); transition:all 0.3s ease-in-out;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 0 25px rgba(0,255,255,0.4)';"
+        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(0,255,255,0.25)';"
+      />
+      <div style="font-size:15px; margin-top:10px;">
+        <b>🤖 PERN MultiAI</b><br>
+        <span>Multi-Agent AI system powered by <b>FastAPI</b> + <b>React</b></span>
+      </div>
+    </a>
+    <div style="margin-top:6px; font-size:14px;">
+      🔗 <a href="https://pern-multiai-client.vercel.app" target="_blank" style="color:#00ffff; font-weight:600;">Live Demo</a>
+    </div>
+  </div>
 
 </div>
+
 
 
 ---
