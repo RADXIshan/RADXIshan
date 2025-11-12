@@ -1,95 +1,148 @@
-# 👋 Hey there! I’m Ishan Roy
+# <div align="center">🚀 WELCOME TO ISHAN’S TECHVERSE 🌌</div>
 
-🚀 **Full-Stack Developer | AI & Machine Learning Enthusiast | Tech Innovator**
+<div align="center">
+  <a href="https://github.com/IshanRoy-tech">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Full-Stack+Developer;AI+%26+Automation+Explorer;Technical+Lead+@Xplore;Always+Building+%26+Learning;Future+Founder+in+the+Making" alt="Typing SVG" />
+  </a>
+</div>
 
-I’m a **3rd-year CSE student at XIM University**, passionate about blending **AI intelligence with full-stack engineering** to build smart, scalable, and impactful products.  
-From designing **dynamic user interfaces** to developing **AI-driven backends**, I love building systems that don’t just work — they *think*.
-
-💡 My mission: **To fuse creativity with computation and craft technology that inspires, solves problems, and shapes the future.**
-
----
-
-## 🌟 About Me
-
-- 🎓 **B.Tech CSE @ XIM University (2023–2027)** | GPA: **8.68**  
-- 💻 **Full-Stack & AI Developer** — skilled in **MERN, PERN**, and **AI-powered applications**  
-- 🧠 Exploring **LLMs, Agentic AI, and Intelligent Web Systems**  
-- ⚙️ Focused on building **real-world, production-grade, AI-augmented software**
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Currently-Coding-brightgreen?style=for-the-badge&logo=terminal&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=IshanRoy-tech&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <a href="https://wakatime.com/@IshanRoy">
+    <img src="https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg" alt="Total time coded since 2025" />
+  </a>
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## <div align="center">🧠 ABOUT ME</div>
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+<div align="center">
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000)
+💻 **3rd Year CSE Student @ XIM University**  
+🧑‍💻 **Technical Lead @ Xplore Coding Community**  
+🌍 Aspiring **Full-Stack + AI Developer** with a passion for **building scalable, intelligent systems**  
+🧩 Currently diving deep into **backend architecture, LLMs, and autonomous AI agents**  
+🚀 Long-term vision: **FAANG engineer → Tech Founder → Build something world-changing**  
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
-
-### 🤖 AI, ML & Data Science
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=fff)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=fff)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff)
-![Gemini](https://img.shields.io/badge/-Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=fff)
-
-### ☁️ Tools & Cloud
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=fff)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## <div align="center">⚙️ TECH STACK</div>
 
-### 🔹 [Multi.AI](https://github.com/RADXIshan/pern-multiai)
-> **All-in-One AI Platform** — Generate images, remove backgrounds, write content, and review resumes using OpenAI APIs.
-
-### 🔹 [Langly](https://github.com/RADXIshan/mern-langly)
-> **Language Learning App** — A global platform to connect and learn languages interactively.
-
-### 🔹 [My Pokédex](https://github.com/RADXIshan/My-Pokedex)
-> **Pokémon Explorer** — Sleek UI to search, filter, and view Pokémon stats using the PokéAPI.
-
-### 🔹 [Real-Time Tracker](https://github.com/RADXIshan/Real-Time-Tracker)
-> **Live Location Tracker** — Real-time movement tracking with an interactive map interface.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST" />
+        <br>REST APIs
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📊 GitHub Contribution Summary
+## <div align="center">📂 FEATURED PROJECTS</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RADXIshan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADXIshan&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 📫 Let’s Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishanroy-radx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-  <a href="mailto:ishanroy3118107@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
-  <a href="https://github.com/RADXIshan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff"/></a>
-</p>
+<div align="center">
+  <a href="https://github.com/IshanRoy-tech/futuristic-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanRoy-tech&repo=futuristic-portfolio&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/IshanRoy-tech/ai-sales-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanRoy-tech&repo=ai-sales-bot&theme=radical&hide_border=true" />
+  </a>
+</div>
 
 ---
 
-### ⚡ *“Let’s build something extraordinary — one idea at a time.”*
+## <div align="center">📊 GITHUB STATS</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IshanRoy-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanRoy-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## <div align="center">🌐 CONNECT WITH ME</div>
+
+<div align="center">
+  <a href="[https://www.linkedin.com/in/ishan-roy-tech/](https://www.linkedin.com/in/ishanroy-radx/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ishanroy3118107@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="[https://github.com/IshanRoy-tech](https://github.com/RADXIshan)">
+    <img src="https://custom-icon-badges.demolab.com/badge/-⬆️_Back_to_Top-purple?style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!+⚡;Keep+Building,+Keep+Exploring+🚀" alt="Outro Animation" />
+</div>
