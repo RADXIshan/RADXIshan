@@ -163,15 +163,6 @@
 
 ---
 
-## <div align="center">📊 GITHUB STATS</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshanRoy-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanRoy-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## <div align="center">🌐 CONNECT WITH ME</div>
 
 <div align="center">
