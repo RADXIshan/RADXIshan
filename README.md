@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/RADXIshan">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Full-Stack+Developer;AI/ML+%26+Enthusiast and+Explorer;Always+Building+%26+Learning;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Full-Stack+Developer;AI/ML+%26+Enthusiast+and+Explorer;Always+Building+%26+Learning;" alt="Typing SVG" />
   </a>
 </div>
 
