@@ -100,7 +100,7 @@
         <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
         <br>Socket.io
      <td align="center" width="96">
-      <img src="[https://skillicons.dev/icons?i=webrtc](https://www.svgrepo.com/show/354551/webrtc.svg)" width="48" height="48" alt="WebRTC" />
+      <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="48" height="48" alt="WebRTC" />
       <br>WebRTC
     </td>
     </tr>
