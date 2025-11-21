@@ -61,16 +61,12 @@
       <br/>FastAPI
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="55" />
-      <br/>LangChain
+      <img src="https://socket.io/images/logo.svg" width="55" />
+      <br/>Socket.io
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vercel" width="55" />
-      <br/>Vercel
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="55" />
-      <br/>Render
+      <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="55" />
+      <br/>WebRTC
     </td>
   </tr>
 
@@ -92,23 +88,19 @@
       <br/>Tailwind CSS
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="55" />
-      <br/>Git
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/api.svg" width="55" />
+      <br/>REST APIs
     </td>
   </tr>
 
   <tr>
     <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="55" />
+      <br/>Git
+    </td>
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=github" width="55" />
       <br/>GitHub
-    </td>
-    <td align="center" width="110">
-      <img src="https://socket.io/images/logo.svg" width="55" />
-      <br/>Socket.io
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="55" />
-      <br/>WebRTC
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
@@ -117,6 +109,21 @@
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" />
       <br/>Pandas
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="55" />
+      <br/>Matplotlib
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vercel" width="55" />
+      <br/>Vercel
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="55" />
+      <br/>Render
     </td>
   </tr>
 </table>
