@@ -71,7 +71,7 @@
         <br>FastAPI
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/render.svg" width="48" height="48" alt="Render" />
+        <img src="https://seeklogo.com/images/R/render-logo-532232.png" width="48" height="48" alt="Render" />
         <br>Render
       </td>
       <td align="center" width="96">
@@ -97,9 +97,9 @@
         <br>Socket.io
       </td>
       <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="48" height="48" alt="WebRTC" />
-      <br>WebRTC
-    </td>
+        <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="48" height="48" alt="WebRTC" />
+        <br>WebRTC
+      </td>
       <td align="center" width="96">
         <img src="https://qdrant.tech/img/logo/logo-white.svg" width="48" height="48" alt="Qdrant" />
         <br>Qdrant
@@ -119,7 +119,7 @@
         <br>Matplotlib
       </td>
       <td align="center" width="96">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain.png" width="48" height="48" alt="LangChain" />
+        <img src="https://seeklogo.com/images/L/langchain-icon-white-logo-611656.png" width="48" height="48" alt="LangChain" />
         <br>LangChain
       </td>
     </tr>
