@@ -69,7 +69,7 @@
       <br/>Render
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/api.svg" width="55" />
+      <img src="https://www.svgrepo.com/download/342276/swagger.svg" width="55" alt="REST APIs (Swagger/OpenAPI)" />
       <br/>REST APIs
     </td>
   </tr>
@@ -111,7 +111,7 @@
       <br/>Pandas
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="55" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Matplotlib_icon.svg" width="55" alt="Matplotlib" />
       <br/>Matplotlib
     </td>
     <td align="center" width="110">
