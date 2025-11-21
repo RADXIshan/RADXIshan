@@ -13,6 +13,18 @@
 
 ---
 
+## <div align="center">📈 GitHub Stats & Top Languages</div>
+
+<div align="center">
+  <a href="https://github.com/RADXIshan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADXIshan&layout=compact&langs_count=10&theme=dark" alt="Ishan's Top Languages" />
+  </a>
+  <a href="https://github.com/RADXIshan">
+    </a>
+</div>
+
+---
+
 ## <div align="center">⚙️ TECH STACK</div>
 
 <div align="center">
@@ -41,8 +53,8 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-        <br>FastAPI
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
@@ -67,9 +79,23 @@
         <br>Tailwind CSS
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+        <br>FastAPI
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+        <br>Vercel
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" />
+        <br>Render
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST" />
+        <br>REST APIs
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
@@ -79,9 +105,13 @@
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST" />
-        <br>REST APIs
+        <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
+        <br>Socket.io
       </td>
+     <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="48" height="48" alt="WebRTC" />
+      <br>WebRTC
+    </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -97,12 +127,13 @@
         <br>Matplotlib
       </td>
       <td align="center" width="96">
-        <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
-        <br>Socket.io
-     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="48" height="48" alt="WebRTC" />
-      <br>WebRTC
-    </td>
+        <img src="https://python.langchain.com/assets/images/logo-red-1.svg" width="48" height="48" alt="LangChain" />
+        <br>LangChain
+      </td>
+      <td align="center" width="96">
+        <img src="https://qdrant.tech/images/logo/qdrant-logo-white-no-bg-1.svg" width="48" height="48" alt="Qdrant" />
+        <br>Qdrant
+      </td>
     </tr>
   </table>
 </div>
