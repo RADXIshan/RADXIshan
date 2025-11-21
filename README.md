@@ -65,8 +65,8 @@
       <br/>LangChain
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg" width="55" />
-      <br/>Qdrant
+      <img src="https://skillicons.dev/icons?i=vercel" width="55" />
+      <br/>Vercel
     </td>
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="55" />
