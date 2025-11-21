@@ -38,16 +38,16 @@
       <br/>React
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="55" />
-      <br/>Next.js
-    </td>
-    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=nodejs" width="55" />
       <br/>Node.js
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=express" width="55" />
       <br/>Express
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
+      <br/>Tailwind CSS
     </td>
   </tr>
 
@@ -88,20 +88,16 @@
       <br/>MySQL
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
-      <br/>Tailwind CSS
-    </td>
-    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="55" />
       <br/>Git
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=github" width="55" />
       <br/>GitHub
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
       <br/>NumPy
@@ -118,9 +114,6 @@
       <img src="https://socket.io/images/logo.svg" width="55" />
       <br/>Socket.io
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="110">
       <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="55" />
       <br/>WebRTC
