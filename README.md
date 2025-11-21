@@ -111,7 +111,7 @@
       <br/>Pandas
     </td>
     <td align="center" width="110">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Matplotlib_icon.svg" width="55" alt="Matplotlib" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Matplotlib_logo.svg" width="55" alt="Matplotlib" />
       <br/>Matplotlib
     </td>
     <td align="center" width="110">
