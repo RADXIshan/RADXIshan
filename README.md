@@ -13,18 +13,6 @@
 
 ---
 
-## <div align="center">📈 GitHub Stats & Top Languages</div>
-
-<div align="center">
-  <a href="https://github.com/RADXIshan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADXIshan&layout=compact&langs_count=10&theme=dark" alt="Ishan's Top Languages" />
-  </a>
-  <a href="https://github.com/RADXIshan">
-    </a>
-</div>
-
----
-
 ## <div align="center">⚙️ TECH STACK</div>
 
 <div align="center">
@@ -87,7 +75,7 @@
         <br>Vercel
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" />
+        <img src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.png" width="48" height="48" alt="Render" />
         <br>Render
       </td>
       <td align="center" width="96">
@@ -112,6 +100,10 @@
       <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="48" height="48" alt="WebRTC" />
       <br>WebRTC
     </td>
+      <td align="center" width="96">
+        <img src="https://qdrant.tech/images/logo/qdrant-logo-white-no-bg-1.svg" width="48" height="48" alt="Qdrant" />
+        <br>Qdrant
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -129,10 +121,6 @@
       <td align="center" width="96">
         <img src="https://python.langchain.com/assets/images/logo-red-1.svg" width="48" height="48" alt="LangChain" />
         <br>LangChain
-      </td>
-      <td align="center" width="96">
-        <img src="https://qdrant.tech/images/logo/qdrant-logo-white-no-bg-1.svg" width="48" height="48" alt="Qdrant" />
-        <br>Qdrant
       </td>
     </tr>
   </table>
