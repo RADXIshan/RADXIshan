@@ -103,7 +103,7 @@
       <br/>GitHub
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
+      <img src="https://matplotlib.org/_static/logo2.svg" width="55" />
       <br/>NumPy
     </td>
     <td align="center" width="110">
