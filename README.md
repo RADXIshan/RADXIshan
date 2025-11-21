@@ -71,12 +71,13 @@
         <br>FastAPI
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-        <br>Vercel
+        <!-- ✔ NEW Render Logo -->
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="48" height="48" alt="Render" />
+        <br>Render
       </td>
       <td align="center" width="96">
-        <img src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.png" width="48" height="48" alt="Render" />
-        <br>Render
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+        <br>Vercel
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST" />
@@ -96,12 +97,13 @@
         <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.io" />
         <br>Socket.io
       </td>
-     <td align="center" width="96">
+      <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="48" height="48" alt="WebRTC" />
       <br>WebRTC
     </td>
       <td align="center" width="96">
-        <img src="https://qdrant.tech/images/logo/qdrant-logo-white-no-bg-1.svg" width="48" height="48" alt="Qdrant" />
+        <!-- ✔ NEW Qdrant Logo -->
+        <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo/qdrant-logo.svg" width="48" height="48" alt="Qdrant" />
         <br>Qdrant
       </td>
     </tr>
@@ -119,7 +121,8 @@
         <br>Matplotlib
       </td>
       <td align="center" width="96">
-        <img src="https://python.langchain.com/assets/images/logo-red-1.svg" width="48" height="48" alt="LangChain" />
+        <!-- ✔ NEW LangChain Logo -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="48" height="48" alt="LangChain" />
         <br>LangChain
       </td>
     </tr>
@@ -131,7 +134,7 @@
 ## <div align="center">🌐 CONNECT WITH ME</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ishanroy-radx/ target="_blank">
+  <a href="https://www.linkedin.com/in/ishanroy-radx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ishanroy3118107@gmail.com">
