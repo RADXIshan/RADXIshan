@@ -61,12 +61,16 @@
       <br/>FastAPI
     </td>
     <td align="center" width="110">
-      <img src="https://socket.io/images/logo.svg" width="55" />
-      <br/>Socket.io
+      <img src="https://skillicons.dev/icons?i=vercel" width="55" />
+      <br/>Vercel
     </td>
     <td align="center" width="110">
-      <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="55" />
-      <br/>WebRTC
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="55" />
+      <br/>Render
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/api.svg" width="55" />
+      <br/>REST APIs
     </td>
   </tr>
 
@@ -87,10 +91,7 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
       <br/>Tailwind CSS
     </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/api.svg" width="55" />
-      <br/>REST APIs
-    </td>
+    
   </tr>
 
   <tr>
@@ -117,13 +118,13 @@
   </tr>
 
   <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vercel" width="55" />
-      <br/>Vercel
+     <td align="center" width="110">
+      <img src="https://socket.io/images/logo.svg" width="55" />
+      <br/>Socket.io
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="55" />
-      <br/>Render
+      <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="55" />
+      <br/>WebRTC
     </td>
   </tr>
 </table>
