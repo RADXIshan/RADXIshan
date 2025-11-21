@@ -91,14 +91,13 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
       <br/>Tailwind CSS
     </td>
-    
-  </tr>
-
-  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="55" />
       <br/>Git
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=github" width="55" />
       <br/>GitHub
@@ -115,13 +114,13 @@
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="55" />
       <br/>Matplotlib
     </td>
-  </tr>
-
-  <tr>
-     <td align="center" width="110">
+    <td align="center" width="110">
       <img src="https://socket.io/images/logo.svg" width="55" />
       <br/>Socket.io
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="110">
       <img src="https://www.svgrepo.com/show/354551/webrtc.svg" width="55" />
       <br/>WebRTC
