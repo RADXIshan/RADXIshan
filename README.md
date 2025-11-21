@@ -103,16 +103,16 @@
       <br/>GitHub
     </td>
     <td align="center" width="110">
-      <img src="https://matplotlib.org/_static/logo2.svg" width="55" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
       <br/>NumPy
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" />
       <br/>Pandas
     </td>
-    <td align="center" width="110">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Matplotlib_logo.svg" width="55" alt="Matplotlib" />
-      <br/>Matplotlib
+    <td align="center" width="96"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" /> 
+      <br>Matplotlib 
     </td>
     <td align="center" width="110">
       <img src="https://socket.io/images/logo.svg" width="55" />
