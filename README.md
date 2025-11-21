@@ -71,8 +71,7 @@
         <br>FastAPI
       </td>
       <td align="center" width="96">
-        <!-- ✔ NEW Render Logo -->
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="48" height="48" alt="Render" />
+        <img src="https://seeklogo.com/images/R/render-logo-532232.png" width="48" height="48" alt="Render" />
         <br>Render
       </td>
       <td align="center" width="96">
@@ -102,8 +101,7 @@
       <br>WebRTC
     </td>
       <td align="center" width="96">
-        <!-- ✔ NEW Qdrant Logo -->
-        <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo/qdrant-logo.svg" width="48" height="48" alt="Qdrant" />
+        <img src="https://qdrant.tech/img/brand-resources-logos/logo-white.svg" width="48" height="48" alt="Qdrant" />
         <br>Qdrant
       </td>
     </tr>
@@ -121,8 +119,7 @@
         <br>Matplotlib
       </td>
       <td align="center" width="96">
-        <!-- ✔ NEW LangChain Logo -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="48" height="48" alt="LangChain" />
+        <img src="https://seeklogo.com/images/L/langchain-icon-white-logo-611656.png" width="48" height="48" alt="LangChain" />
         <br>LangChain
       </td>
     </tr>
